@@ -1,0 +1,9 @@
+[submodule "house-service"]
+	path = house-service
+	url = git@github.com:MinMin2424/NSS-House-Service.git
+[submodule "event-service"]
+	path = event-service
+	url = git@github.com:MinMin2424/NSS-Event-Service.git
+[submodule "log-service"]
+	path = log-service
+	url = git@github.com:MinMin2424/NSS-Log-Service.git
